@@ -6,7 +6,7 @@
 RODOLFO SARMENTO
 ---
 
-Olá, me chamo rodolfo e sou de Sousa-PB, eu estou dando início em minha carreira como cientista de dados. sinta-se a vontade e seja bem vindo ao meu Github.
+Olá, me chamo rodolfo e sou de Sousa-PB, eu estou dando início em minha carreira na área de dados. sinta-se a vontade e seja bem vindo ao meu Github.
 
 ### Conecte-se comigo
 
